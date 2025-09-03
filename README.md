@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm [Kamlesh PAl]
+### 👋 Hi there, I'm Kamlesh PAl
 
 I'm a passionate Data Scientist and Machine Learning enthusiast with a keen interest in building and optimizing neural networks. I enjoy tackling challenging datasets and leveraging powerful tools to extract meaningful insights and create efficient models.
 
----
+
 
 ### 🚀 My Featured Project: Fashion MNIST Classification with ANN and Optuna
 
