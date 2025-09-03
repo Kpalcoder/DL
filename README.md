@@ -43,7 +43,7 @@ By using Optuna, I was able to systematically explore a wide range of hyperparam
 
 #### 🛠️ Technologies Used
 *   Python
-*   TensorFlow / Keras / PyTorch (You can specify which one you used)
+*   PyTorch 
 *   Optuna
 *   NumPy
 *   Pandas
